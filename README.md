@@ -1,4 +1,4 @@
-# BASIC PYTHON
+# BASIC PYTHON for beginners
 
 Note:
 This repository contains basic Python programs for learning and practice.
